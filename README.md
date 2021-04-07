@@ -33,3 +33,15 @@ info = {
   <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35px"></td>
 </tr>
 </table>
+
+## More about me
+* Recently graduated from Le Wagon coding bootcamp Berlin, batch #531 💪
+* Currently writing tests for [Neighbors](https://www.neighbors-app.fun/) app
+* Ask me about Ruby, SQL or REST APIs
+* Working knowledge: Sidekiq and Node.JS
+* You can say hi on my [LinkedIn](https://www.linkedin.com/in/ammy-varela-rodriguez/) or shoot me an email: ammyvrodriguez@hotmail.com
+
+## Languages
+* 🇪🇸 Spanish: native
+* 🇬🇧 English: fluent
+* 🇩🇪 German: fluent
