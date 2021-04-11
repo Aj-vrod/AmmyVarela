@@ -42,6 +42,6 @@ info = {
 * You can say hi on my [LinkedIn](https://www.linkedin.com/in/ammy-varela-rodriguez/) or shoot me an email: ammyvrodriguez@hotmail.com
 
 ## Languages
-* 🇪🇸 Spanish: native
-* 🇬🇧 English: fluent
-* 🇩🇪 German: fluent
+* 🇪🇸 Spanish: C2
+* 🇬🇧 English: C1
+* 🇩🇪 German: B2
