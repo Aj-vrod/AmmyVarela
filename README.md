@@ -8,7 +8,7 @@ info = {
    role: 'BackEnd Developer',
    super_tech_stack: ['Ruby', 'Rails 5+', 'JavaScript ES6', 'REST APIs', 'Test Driven Development'],
    location: 'Wherever I am needed',
-   open_for_a_job: true
+   open_to_work: true
 }
 ```
 ## Check out my previous projects 👇
