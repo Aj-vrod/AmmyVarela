@@ -1,6 +1,6 @@
 # Ammy Varela
 ## Hey there! 👋
-I am a nomadic Backend Developer currently based in Berlin.
+I am a nomadic Web Developer currently based in Berlin.
 
 ```ruby
 info = {
