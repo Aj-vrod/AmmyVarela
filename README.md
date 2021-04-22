@@ -5,7 +5,7 @@ I am a nomadic Web Developer currently based in Berlin.
 ```ruby
 info = {
    name: 'Ammy Varela',
-   super_tech_stack: ['Ruby', 'Rails 5+', 'JavaScript ES6', 'REST APIs', 'Test Driven Development'],
+   super_tech_stack: ['Ruby', 'Rails 5+', 'JavaScriptES6', 'REST APIs', 'Test Driven Development'],
    location: 'Wherever I am needed',
    open_to_work: true
 }
