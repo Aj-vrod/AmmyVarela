@@ -24,23 +24,23 @@ info = {
 ## Current Tech Stack
 <table>
    <tr>
-     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="45px"></td>
-     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="45px"></td>
-     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45px"></td>
-     <td><img src="https://www.surrealcms.com/uploads/nodejs-logo.png" width="45px"></td>
-     <td><img src="https://i2.wp.com/enekodelatorre.com/wp-content/uploads/2016/10/express-fondo-2.png?resize=800%2C516&ssl=1" width="45px"></td>
-     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45px"></td>
-     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45px"></td>
-     <td><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="45px"></td>
+     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="50px"></td>
+     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="50px"></td>
+     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px"></td>
+     <td><img src="https://www.surrealcms.com/uploads/nodejs-logo.png" width="50px"></td>
+     <td><img src="https://i2.wp.com/enekodelatorre.com/wp-content/uploads/2016/10/express-fondo-2.png?resize=800%2C516&ssl=1" width="50px"></td>
+     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50px"></td>
+     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50px"></td>
+     <td><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="50px"></td>
+     <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50px"></td>
+     <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50px"></td>
    </tr>
    <tr>
-     <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45px"></td>
-     <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45px"></td>
-     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45px"></td>
-     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="45px"></td>
-     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45px"></td>
-     <td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="45px"></td>
-     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45px"></td>
+     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px"></td>
+     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50px"></td>
+     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px"></td>
+     <td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="50px"></td>
+     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50px"></td>
    </tr>
 </table>
 
