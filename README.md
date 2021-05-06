@@ -1,7 +1,7 @@
 # Ammy Varela
 ## Hey there! 👋
 I am a nomadic Web Developer currently based in Berlin. 
-👉 Here is my [Portfolio page](https://www.notion.so/Ammy-Varela-Portfolio-a2a2df07ba894b83901db34e8f46a4f1) 
+👉 Here is my [Portfolio page](https://ammyvareladev.glitch.me) 
 
 ```ruby
 info = {
