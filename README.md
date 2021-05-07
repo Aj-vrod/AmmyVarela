@@ -48,7 +48,7 @@ info = {
 * Recently graduated from Le Wagon coding bootcamp Berlin, batch #531 💪
 * Currently writing tests for [Neighbors](https://www.neighbors-app.fun/) app
 * Ask me about Rails, PostgreSQL or REST APIs
-* Working knowledge: Sidekiq and Docker
+* Working knowledge: AWS and Docker
 * You can say hi on my [LinkedIn](https://www.linkedin.com/in/ammy-varela-rodriguez/) or shoot me an email: ammyvrodriguez@hotmail.com
 
 ## Languages
