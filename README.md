@@ -46,7 +46,7 @@ info = {
 
 ## More about me
 * Recently graduated from Le Wagon coding bootcamp Berlin, batch #531 💪
-* Currently learning Java 🤯
+* Currently learning Python 🤯
 * Ask me about Rails, PostgreSQL or Node.js
 * Working knowledge: AWS and Docker
 * You can say hi on my [LinkedIn](https://www.linkedin.com/in/ammy-varela-rodriguez/) or shoot me an email: ammyvrodriguez@hotmail.com
