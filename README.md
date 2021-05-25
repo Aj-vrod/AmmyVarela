@@ -7,7 +7,7 @@ Here is my [Portfolio page](https://ammyvareladev.glitch.me)
 info = {
    name: 'Ammy Varela',
    role: 'Backend Developer',
-   super_tech_stack: ['Ruby', 'Rails 5+', 'SQL', 'REST APIs', 'NodeJS', 'JavaScript', 'Test Driven Development'],
+   super_tech_stack: ['Python', 'Ruby', 'Rails 5+', 'SQL', 'REST APIs', 'NodeJS', 'JavaScript', 'Test Driven Development'],
    location: 'Wherever I am needed',
    open_to_work: true
 }
@@ -24,10 +24,11 @@ info = {
 ## Current Tech Stack
 <table>
    <tr>
-     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="50px"></td>
-     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="50px"></td>
+     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px"></td>
      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px"></td>
      <td><img src="https://www.surrealcms.com/uploads/nodejs-logo.png" width="50px"></td>
+     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="50px"></td>
+     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="50px"></td>
      <td><img src="https://i2.wp.com/enekodelatorre.com/wp-content/uploads/2016/10/express-fondo-2.png?resize=800%2C516&ssl=1" width="50px"></td>
      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50px"></td>
      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50px"></td>
@@ -45,10 +46,10 @@ info = {
 </table>
 
 ## More about me
-* Recently graduated from Le Wagon coding bootcamp Berlin, batch #531 💪
-* Currently learning Python 🤯
-* Ask me about Rails, PostgreSQL or Node.js
-* Working knowledge: AWS and Docker
+* Graduated from Le Wagon coding bootcamp Berlin, batch #531 💪
+* Always learning Python 🤯
+* Ask me about Python, Node.js, Rails or PostgreSQL
+* Working knowledge: AWS and Django
 * You can say hi on my [LinkedIn](https://www.linkedin.com/in/ammy-varela-rodriguez/) or shoot me an email: ammyvrodriguez@hotmail.com
 
 ## Languages
