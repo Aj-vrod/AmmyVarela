@@ -1,13 +1,13 @@
 # Ammy Varela
 ## Hey there! 👋
-I am a nomadic Web Developer currently based in Berlin. <br>
+I am a Backend Developer with the ability to turn ideas into working code. <br>
 Here is my [Portfolio page](https://ammyvareladev.glitch.me) 
 
 ```ruby
 info = {
    name: 'Ammy Varela',
    role: 'Backend Developer',
-   super_tech_stack: ['Python', 'Ruby', 'Rails 5+', 'SQL', 'REST APIs', 'NodeJS', 'JavaScript', 'Test Driven Development'],
+   super_tech_stack: ['Rails', 'Node.js', 'Django', 'REST APIs', 'PostgreSQL', 'TDD'],
    location: 'Wherever I am needed',
    open_to_work: true
 }
@@ -25,6 +25,7 @@ info = {
 <table>
    <tr>
      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px"></td>
+     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="50px"></td>
      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px"></td>
      <td><img src="https://www.surrealcms.com/uploads/nodejs-logo.png" width="50px"></td>
      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="50px"></td>
@@ -34,9 +35,9 @@ info = {
      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50px"></td>
      <td><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="50px"></td>
      <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50px"></td>
-     <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50px"></td>
    </tr>
    <tr>
+     <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50px"></td>
      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px"></td>
      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50px"></td>
      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px"></td>
@@ -48,8 +49,8 @@ info = {
 ## More about me
 * Graduated from Le Wagon coding bootcamp Berlin, batch #531 💪
 * Always learning Python 🤯
-* Ask me about Python, Node.js, Rails or PostgreSQL
-* Working knowledge: AWS and Django
+* Ask me about Django, Node.js, Rails or PostgreSQL
+* Working knowledge: AWS and Docker
 * You can say hi on my [LinkedIn](https://www.linkedin.com/in/ammy-varela-rodriguez/) or shoot me an email: ammyvrodriguez@hotmail.com
 
 ## Languages
