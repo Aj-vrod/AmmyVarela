@@ -1,7 +1,9 @@
 # Ammy Varela
 ## Hey there! 👋
-I am a Backend Developer with the ability to turn ideas into working code. <br>
-Here is my [Portfolio page](https://ammyvareladev.glitch.me) 
+<h3>I am a Backend Developer with the ability to turn ideas into working code.</h3>
+</br>
+
+Here is my [Portfolio page](https://ammyvareladev.glitch.me)
 
 ```ruby
 info = {
@@ -13,7 +15,7 @@ info = {
 }
 ```
 
-## Check out my previous projects 👇
+## Check out my previous projects 💥
 * [Neighbors](https://www.neighbors-app.fun/) app
   - repo https://github.com/Bbbie/neighbors
 * [Dress-up](https://dress-me-app.herokuapp.com/) app
