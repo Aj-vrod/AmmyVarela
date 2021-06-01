@@ -1,9 +1,9 @@
 <h1 align="center">Ammy Varela</h1>
 <h3 align="center">I am a Backend Developer from Spain with the ability to turn ideas into working code.</h3>
 
-<p align="center">
+<h3 align="center">
    👀 <a href="https://ammyvareladev.glitch.me" target="blank">My portfolio page</a>
-</p>
+</h3>
 
 ```python3
 info = {
