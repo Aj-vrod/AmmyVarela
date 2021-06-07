@@ -1,5 +1,5 @@
 <h1 align="center">Ammy Varela</h1>
-<h3 align="center">I am a Backend Developer from Spain with the ability to turn ideas into working code.</h3>
+<h3 align="center">I am a Fullstack Developer from Spain with the ability to turn ideas into working code.</h3>
 
 <h3 align="center">
    👀 <a href="https://ammyvareladev.glitch.me" target="_blank">My portfolio page</a>
@@ -8,7 +8,7 @@
 ```python3
 info = {
    name: 'Ammy Varela',
-   role: 'Backend Developer',
+   role: 'Fullstack Developer',
    super_tech_stack: ['Rails', 'Node.js', 'Django', 'REST APIs', 'PostgreSQL', 'TDD'],
    location: 'Wherever I am needed',
    open_to_work: true
