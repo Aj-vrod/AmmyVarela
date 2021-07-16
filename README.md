@@ -2,27 +2,8 @@
 <h3 align="center">I am a Fullstack Developer from Spain with the ability to turn ideas into working code.</h3>
 
 <h3 align="center">
-   👀 <a href="https://ammyvareladev.glitch.me" target="_blank">My portfolio page</a>
+  <a href="https://ammyvareladev.glitch.me" target="_blank">My portfolio page</a>
 </h3>
-
-```python3
-info = {
-   name: 'Ammy Varela',
-   role: 'Fullstack Developer',
-   super_tech_stack: ['Rails', 'Node.js', 'Django', 'REST APIs', 'PostgreSQL', 'TDD'],
-   location: 'Wherever I am needed',
-   open_to_work: true
-}
-```
-<h2 align="left">Check out my previous projects 💥</h2>
-
-* [Neighbors](https://www.neighbors-app.fun/) app
-  - repo https://github.com/Bbbie/neighbors
-* [Dress-up](https://dress-me-app.herokuapp.com/) app
-  - repo https://github.com/Aj-vrod/dress-up
-* [REST API](https://office-booking-api.herokuapp.com/)
-  - repo https://github.com/Aj-vrod/REST-API-with-Nodejs
-
 
 <h2 align="left">Current Tech Stack</h2>
 
@@ -85,9 +66,6 @@ info = {
 <h2 align="left">More about me</h2>
 
 * Graduated from Le Wagon coding bootcamp Berlin, batch #531 💪
-* Always learning Python 🤯
-* Ask me about Django, Node.js, Rails or PostgreSQL
-* Working knowledge: AWS and Docker
 * You can say hi on my [LinkedIn](https://www.linkedin.com/in/ammy-varela-rodriguez/) or shoot me an email: ammyvrodriguez@hotmail.com
 
 <h2 align="left">Languages</h2>
