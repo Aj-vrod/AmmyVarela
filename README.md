@@ -1,5 +1,5 @@
 <h1 align="center">Ammy Varela</h1>
-<h3 align="center">I am a Fullstack Developer from Spain with the ability to turn ideas into working code.</h3>
+<h3 align="center">Fullstack Developer | Frontend Engineer at HelloFresh</h3>
 
 <h3 align="center">
   <a href="https://ammyvareladev.glitch.me" target="_blank">My portfolio page</a>
